@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo \"node app\""
   },
   "keywords": [],
   "author": "",
